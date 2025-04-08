@@ -1,138 +1,167 @@
 {
-    "location": "Household B",
-    "monthly_consumption_kwh": [
-        {
-            "month": "2023-01",
-            "total_consumption_kwh": 320,
-            "appliances": {
-                "HVAC": 150,
-                "Refrigerator": 50,
-                "Washing Machine": 30,
-                "Lighting": 60,
-                "Electronics": 30
-            }
-        },
-        {
-            "month": "2023-02",
-            "total_consumption_kwh": 290,
-            "appliances": {
-                "HVAC": 140,
-                "Refrigerator": 48,
-                "Washing Machine": 25,
-                "Lighting": 50,
-                "Electronics": 27
-            }
-        },
-        {
-            "month": "2023-03",
-            "total_consumption_kwh": 310,
-            "appliances": {
-                "HVAC": 160,
-                "Refrigerator": 49,
-                "Washing Machine": 28,
-                "Lighting": 52,
-                "Electronics": 21
-            }
-        },
-        {
-            "month": "2023-04",
-            "total_consumption_kwh": 400,
-            "appliances": {
-                "HVAC": 220,
-                "Refrigerator": 52,
-                "Washing Machine": 35,
-                "Lighting": 60,
-                "Electronics": 33
-            }
-        },
-        {
-            "month": "2023-05",
-            "total_consumption_kwh": 350,
-            "appliances": {
-                "HVAC": 200,
-                "Refrigerator": 53,
-                "Washing Machine": 30,
-                "Lighting": 45,
-                "Electronics": 22
-            }
-        },
-        {
-            "month": "2023-06",
-            "total_consumption_kwh": 370,
-            "appliances": {
-                "HVAC": 210,
-                "Refrigerator": 54,
-                "Washing Machine": 31,
-                "Lighting": 50,
-                "Electronics": 25
-            }
-        },
-        {
-            "month": "2023-07",
-            "total_consumption_kwh": 410,
-            "appliances": {
-                "HVAC": 250,
-                "Refrigerator": 56,
-                "Washing Machine": 35,
-                "Lighting": 45,
-                "Electronics": 24
-            }
-        },
-        {
-            "month": "2023-08",
-            "total_consumption_kwh": 390,
-            "appliances": {
-                "HVAC": 240,
-                "Refrigerator": 55,
-                "Washing Machine": 33,
-                "Lighting": 40,
-                "Electronics": 22
-            }
-        },
-        {
-            "month": "2023-09",
-            "total_consumption_kwh": 360,
-            "appliances": {
-                "HVAC": 200,
-                "Refrigerator": 52,
-                "Washing Machine": 29,
-                "Lighting": 50,
-                "Electronics": 29
-            }
-        },
-        {
-            "month": "2023-10",
-            "total_consumption_kwh": 330,
-            "appliances": {
-                "HVAC": 180,
-                "Refrigerator": 50,
-                "Washing Machine": 28,
-                "Lighting": 52,
-                "Electronics": 20
-            }
-        },
-        {
-            "month": "2023-11",
-            "total_consumption_kwh": 300,
-            "appliances": {
-                "HVAC": 160,
-                "Refrigerator": 48,
-                "Washing Machine": 27,
-                "Lighting": 45,
-                "Electronics": 20
-            }
-        },
-        {
-            "month": "2023-12",
-            "total_consumption_kwh": 340,
-            "appliances": {
-                "HVAC": 190,
-                "Refrigerator": 51,
-                "Washing Machine": 30,
-                "Lighting": 48,
-                "Electronics": 21
-            }
-        }
-    ]
+  "location": "Household B",
+  "monthly_consumption_kwh": [
+    {
+      "month": "2023-01",
+      "total_consumption_kwh": 320,
+      "cost_usd": 48.0,
+      "appliances": { "HVAC": 150, "Refrigerator": 50, "Washing Machine": 30, "Lighting": 60, "Electronics": 30 }
+    },
+    {
+      "month": "2023-02",
+      "total_consumption_kwh": 290,
+      "cost_usd": 43.5,
+      "appliances": { "HVAC": 140, "Refrigerator": 48, "Washing Machine": 25, "Lighting": 50, "Electronics": 27 }
+    },
+    {
+      "month": "2023-03",
+      "total_consumption_kwh": 310,
+      "cost_usd": 46.5,
+      "appliances": { "HVAC": 160, "Refrigerator": 49, "Washing Machine": 28, "Lighting": 52, "Electronics": 21 }
+    },
+    {
+      "month": "2023-04",
+      "total_consumption_kwh": 400,
+      "cost_usd": 60.0,
+      "appliances": { "HVAC": 220, "Refrigerator": 52, "Washing Machine": 35, "Lighting": 60, "Electronics": 33 }
+    },
+    {
+      "month": "2023-05",
+      "total_consumption_kwh": 350,
+      "cost_usd": 52.5,
+      "appliances": { "HVAC": 200, "Refrigerator": 53, "Washing Machine": 30, "Lighting": 45, "Electronics": 22 }
+    },
+    {
+      "month": "2023-06",
+      "total_consumption_kwh": 370,
+      "cost_usd": 55.5,
+      "appliances": { "HVAC": 210, "Refrigerator": 54, "Washing Machine": 31, "Lighting": 50, "Electronics": 25 }
+    },
+    {
+      "month": "2023-07",
+      "total_consumption_kwh": 410,
+      "cost_usd": 61.5,
+      "appliances": { "HVAC": 250, "Refrigerator": 56, "Washing Machine": 35, "Lighting": 45, "Electronics": 24 }
+    },
+    {
+      "month": "2023-08",
+      "total_consumption_kwh": 390,
+      "cost_usd": 58.5,
+      "appliances": { "HVAC": 240, "Refrigerator": 55, "Washing Machine": 33, "Lighting": 40, "Electronics": 22 }
+    },
+    {
+      "month": "2023-09",
+      "total_consumption_kwh": 360,
+      "cost_usd": 54.0,
+      "appliances": { "HVAC": 200, "Refrigerator": 52, "Washing Machine": 29, "Lighting": 50, "Electronics": 29 }
+    },
+    {
+      "month": "2023-10",
+      "total_consumption_kwh": 330,
+      "cost_usd": 49.5,
+      "appliances": { "HVAC": 180, "Refrigerator": 50, "Washing Machine": 28, "Lighting": 52, "Electronics": 20 }
+    },
+    {
+      "month": "2023-11",
+      "total_consumption_kwh": 300,
+      "cost_usd": 45.0,
+      "appliances": { "HVAC": 160, "Refrigerator": 48, "Washing Machine": 27, "Lighting": 45, "Electronics": 20 }
+    },
+    {
+      "month": "2023-12",
+      "total_consumption_kwh": 340,
+      "cost_usd": 51.0,
+      "appliances": { "HVAC": 190, "Refrigerator": 51, "Washing Machine": 30, "Lighting": 48, "Electronics": 21 }
+    },
+    {
+      "month": "2024-01",
+      "total_consumption_kwh": 330,
+      "cost_usd": 49.5,
+      "appliances": { "HVAC": 160, "Refrigerator": 50, "Washing Machine": 29, "Lighting": 55, "Electronics": 36 }
+    },
+    {
+      "month": "2024-02",
+      "total_consumption_kwh": 310,
+      "cost_usd": 46.5,
+      "appliances": { "HVAC": 150, "Refrigerator": 49, "Washing Machine": 26, "Lighting": 52, "Electronics": 33 }
+    },
+    {
+      "month": "2024-03",
+      "total_consumption_kwh": 335,
+      "cost_usd": 50.25,
+      "appliances": { "HVAC": 170, "Refrigerator": 50, "Washing Machine": 30, "Lighting": 54, "Electronics": 31 }
+    },
+    {
+      "month": "2024-04",
+      "total_consumption_kwh": 420,
+      "cost_usd": 63.0,
+      "appliances": { "HVAC": 230, "Refrigerator": 53, "Washing Machine": 36, "Lighting": 58, "Electronics": 43 }
+    },
+    {
+      "month": "2024-05",
+      "total_consumption_kwh": 375,
+      "cost_usd": 56.25,
+      "appliances": { "HVAC": 210, "Refrigerator": 54, "Washing Machine": 32, "Lighting": 48, "Electronics": 31 }
+    },
+    {
+      "month": "2024-06",
+      "total_consumption_kwh": 395,
+      "cost_usd": 59.25,
+      "appliances": { "HVAC": 220, "Refrigerator": 55, "Washing Machine": 33, "Lighting": 50, "Electronics": 37 }
+    },
+    {
+      "month": "2024-07",
+      "total_consumption_kwh": 430,
+      "cost_usd": 64.5,
+      "appliances": { "HVAC": 260, "Refrigerator": 56, "Washing Machine": 36, "Lighting": 49, "Electronics": 29 }
+    },
+    {
+      "month": "2024-08",
+      "total_consumption_kwh": 405,
+      "cost_usd": 60.75,
+      "appliances": { "HVAC": 250, "Refrigerator": 55, "Washing Machine": 34, "Lighting": 45, "Electronics": 21 }
+    },
+    {
+      "month": "2024-09",
+      "total_consumption_kwh": 370,
+      "cost_usd": 55.5,
+      "appliances": { "HVAC": 210, "Refrigerator": 54, "Washing Machine": 30, "Lighting": 51, "Electronics": 25 }
+    },
+    {
+      "month": "2024-10",
+      "total_consumption_kwh": 350,
+      "cost_usd": 52.5,
+      "appliances": { "HVAC": 190, "Refrigerator": 52, "Washing Machine": 29, "Lighting": 52, "Electronics": 27 }
+    },
+    {
+      "month": "2024-11",
+      "total_consumption_kwh": 325,
+      "cost_usd": 48.75,
+      "appliances": { "HVAC": 170, "Refrigerator": 50, "Washing Machine": 28, "Lighting": 47, "Electronics": 30 }
+    },
+    {
+      "month": "2024-12",
+      "total_consumption_kwh": 360,
+      "cost_usd": 54.0,
+      "appliances": { "HVAC": 200, "Refrigerator": 52, "Washing Machine": 30, "Lighting": 50, "Electronics": 28 }
+    },
+    {
+      "month": "2025-01",
+      "total_consumption_kwh": 340,
+      "cost_usd": 51.0,
+      "appliances": { "HVAC": 180, "Refrigerator": 51, "Washing Machine": 28, "Lighting": 52, "Electronics": 29 }
+    },
+    {
+      "month": "2025-02",
+      "total_consumption_kwh": 315,
+      "cost_usd": 47.25,
+      "appliances": { "HVAC": 165, "Refrigerator": 50, "Washing Machine": 27, "Lighting": 48, "Electronics": 25 }
+    },
+    {
+      "month": "2025-03",
+      "total_consumption_kwh": 350,
+      "cost_usd": 52.5,
+      "appliances": { "HVAC": 190, "Refrigerator": 52, "Washing Machine": 29, "Lighting": 50, "Electronics": 29 }
+    }
+  ]
 }
-
